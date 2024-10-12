@@ -1,17 +1,17 @@
 [
   {
     "id": "01H8PZTSKPKVSMGJNG2Y54JSWZJ",
-    "education": "B.Econ(Statistics) from Yangon Institute of Economics (2007)",
+    "name": "B.Econ(Statistics) from Yangon Institute of Economics (2007)",
     "year": "2007"
   },
   {
     "id": "01H8PZTSKPKVSMGJNG2Y54JSWZK",
-    "education": "Diploma in Computerized Accounting (UK) 2010",
+    "name": "Diploma in Computerized Accounting (UK) 2010",
     "year": "2010"
   },
   {
     "id": "01H8PZTSKPKVSMGJNG2Y54JSWZL",
-    "education": "Diploma in International Business from Myanmar Institute of Commerce (2022)",
+    "name": "Diploma in International Business from Myanmar Institute of Commerce (2022)",
     "year": "2022"
   }
 ]
