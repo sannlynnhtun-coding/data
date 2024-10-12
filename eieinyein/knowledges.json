@@ -1,12 +1,12 @@
 [
-  "Full Set Accounting",
-  "Social Media Scheduling",
-  "Active Listening",
-  "Business Couching",
-  "Critical Thinking & Problem Solving",
-  "Negotiation skills",
-  "Leadership skills",
-  "Communication skills",
-  "Advanced Accountancy",
-  "Entrepreneurship and Innovation"
+  { "name": "Full Set Accounting" },
+  { "name": "Social Media Scheduling" },
+  { "name": "Active Listening" },
+  { "name": "Business Couching" },
+  { "name": "Critical Thinking & Problem Solving" },
+  { "name": "Negotiation skills" },
+  { "name": "Leadership skills" },
+  { "name": "Communication skills" },
+  { "name": "Advanced Accountancy" },
+  { "name": "Entrepreneurship and Innovation" }
 ]
