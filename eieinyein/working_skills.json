@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Account Analysis",
+		"value": "0",
+		"color": "red"
+	},
+	{
+		"name": "Accounts Receivable & Accounts Payable",
+		"value": "0",
+		"color": "blue"
+	},
+	{
+		"name": "Book-keeping",
+		"value": "0",
+		"color": "yellow"
+	},
+	{
+		"name": "Financial Reporting",
+		"value": "0",
+		"color": "pink"
+	},
+	{
+		"name": "Data Entry",
+		"value": "0",
+		"color": "yellow"
+	},
+	{
+		"name": "Microsoft Dynamics",
+		"value": "0",
+		"color": "yellow"
+	},
+	{
+		"name": "Digital Tools",
+		"value": "0",
+		"color": "yellow"
+	},
+	{
+		"name": "Accounting Software",
+		"value": "0",
+		"color": "yellow"
+	},
+	{
+		"name": "Team Leading in Projects",
+		"value": "0",
+		"color": "yellow"
+	},
+	{
+		"name": "Mathematics",
+		"value": "0",
+		"color": "yellow"
+	},
+	{
+		"name": "Data Analysis",
+		"value": "0",
+		"color": "yellow"
+	}
+]
