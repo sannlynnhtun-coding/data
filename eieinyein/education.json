@@ -1,1 +1,22 @@
-[{"education":"B.Econ(Statistics) from Yangon Institute of Economics (2007)","year":"2007"},{"education":"Diploma in Computerized Accounting (UK) 2010","year":"2010"},{"education":"Diploma in International Business from Myanmar Institute of Commerce (2022)","year":"2022"},{"education":"dfsafasdf","year":"2222"}]
+[
+  {
+    "id": "01H8PZTSKPKVSMGJNG2Y54JSWZJ",
+    "education": "B.Econ(Statistics) from Yangon Institute of Economics (2007)",
+    "year": "2007"
+  },
+  {
+    "id": "01H8PZTSKPKVSMGJNG2Y54JSWZK",
+    "education": "Diploma in Computerized Accounting (UK) 2010",
+    "year": "2010"
+  },
+  {
+    "id": "01H8PZTSKPKVSMGJNG2Y54JSWZL",
+    "education": "Diploma in International Business from Myanmar Institute of Commerce (2022)",
+    "year": "2022"
+  },
+  {
+    "id": "01H8PZTSKPKVSMGJNG2Y54JSWZM",
+    "education": "dfsafasdf",
+    "year": "2222"
+  }
+]
