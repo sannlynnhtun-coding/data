@@ -1,15 +1,54 @@
 [
-  { "name": "Computer literacy is complusory" },
-  { "name": "Manage bank transaction, check weekly and monthly cash balance and report to Admim" },
-  { "name": "Excellent communication and Interpersonal skills are essential" },
-  { "name": "Ability to correspond and communicate independently with clients" },
-  { "name": "Work experience in accounts will be an added advantage" },
-  { "name": "Able to manage and control the junior accountants" },
-  { "name": "Monitoring day to day finance operations, and company’s financial accounting, monitoring and reporting systems" },
-  { "name": "Daily accounting transcations" },
-  { "name": "Ensures all expenditure worksheets for accuracy and completeness" },
-  { "name": "Prepare and maintain cash books ensuring completeness and accuracy of data entry." },
-  { "name": "Prepare and maintain accounts payable, receivable and payroll." },
-  { "name": "Monthly preparation of Financial statements" },
-  { "name": "Prepares financial reports such as monthly profit and loss, balance sheet reports" }
+  {
+    "name": "Computer literacy is complusory",
+    "id": "01JA3BS6NCX495N2BYE9BMW3X6"
+  },
+  {
+    "name": "Manage bank transaction, check weekly and monthly cash balance and report to Admim",
+    "id": "01JA3BS6NH92WMCFCTEJQ8Z3JX"
+  },
+  {
+    "name": "Excellent communication and Interpersonal skills are essential",
+    "id": "01JA3BS6NH15EAB0V9QW8PVXPR"
+  },
+  {
+    "name": "Ability to correspond and communicate independently with clients",
+    "id": "01JA3BS6NH1P2GRD1JBWKN49KB"
+  },
+  {
+    "name": "Work experience in accounts will be an added advantage",
+    "id": "01JA3BS6NH2MK87G2B6C0BNC61"
+  },
+  {
+    "name": "Able to manage and control the junior accountants",
+    "id": "01JA3BS6NHRFA1KC6ZXRF8TCZ9"
+  },
+  {
+    "name": "Monitoring day to day finance operations, and company’s financial accounting, monitoring and reporting systems",
+    "id": "01JA3BS6NH8WZRKC3K1WT38YGP"
+  },
+  {
+    "name": "Daily accounting transcations",
+    "id": "01JA3BS6NHYEGNZJ5B5RTN3WMH"
+  },
+  {
+    "name": "Ensures all expenditure worksheets for accuracy and completeness",
+    "id": "01JA3BS6NH5H00FZRV3BR1QCGZ"
+  },
+  {
+    "name": "Prepare and maintain cash books ensuring completeness and accuracy of data entry.",
+    "id": "01JA3BS6NHQ67511M7C8JZQNN8"
+  },
+  {
+    "name": "Prepare and maintain accounts payable, receivable and payroll.",
+    "id": "01JA3BS6NH0W6819QJDC1YD1S6"
+  },
+  {
+    "name": "Monthly preparation of Financial statements",
+    "id": "01JA3BS6NHEEV38NKD1MZ8P2Y6"
+  },
+  {
+    "name": "Prepares financial reports such as monthly profit and loss, balance sheet reports",
+    "id": "01JA3BS6NH2AQG207SB9A42Q0M"
+  }
 ]
