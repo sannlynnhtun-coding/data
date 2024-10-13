@@ -1,57 +1,68 @@
 [
-	{
-		"name": "Account Analysis",
-		"value": "0",
-		"color": "red"
-	},
-	{
-		"name": "Accounts Receivable & Accounts Payable",
-		"value": "0",
-		"color": "blue"
-	},
-	{
-		"name": "Book-keeping",
-		"value": "0",
-		"color": "yellow"
-	},
-	{
-		"name": "Financial Reporting",
-		"value": "0",
-		"color": "pink"
-	},
-	{
-		"name": "Data Entry",
-		"value": "0",
-		"color": "yellow"
-	},
-	{
-		"name": "Microsoft Dynamics",
-		"value": "0",
-		"color": "yellow"
-	},
-	{
-		"name": "Digital Tools",
-		"value": "0",
-		"color": "yellow"
-	},
-	{
-		"name": "Accounting Software",
-		"value": "0",
-		"color": "yellow"
-	},
-	{
-		"name": "Team Leading in Projects",
-		"value": "0",
-		"color": "yellow"
-	},
-	{
-		"name": "Mathematics",
-		"value": "0",
-		"color": "yellow"
-	},
-	{
-		"name": "Data Analysis",
-		"value": "0",
-		"color": "yellow"
-	}
+  {
+    "name": "Account Analysis",
+    "value": "0",
+    "color": "red",
+    "id": "01JA3BWV9K6P2KN8JSQ0AY89D4"
+  },
+  {
+    "name": "Accounts Receivable & Accounts Payable",
+    "value": "0",
+    "color": "blue",
+    "id": "01JA3BWV9PCQXM3NJQY95QVDQG"
+  },
+  {
+    "name": "Book-keeping",
+    "value": "0",
+    "color": "yellow",
+    "id": "01JA3BWV9PQ8M805XG4WKXMWA5"
+  },
+  {
+    "name": "Financial Reporting",
+    "value": "0",
+    "color": "pink",
+    "id": "01JA3BWV9PDC579QX24RTSZSRC"
+  },
+  {
+    "name": "Data Entry",
+    "value": "0",
+    "color": "yellow",
+    "id": "01JA3BWV9PRT1QDEYR4HBJS9FM"
+  },
+  {
+    "name": "Microsoft Dynamics",
+    "value": "0",
+    "color": "yellow",
+    "id": "01JA3BWV9PYS1EMYAX6E6GM94P"
+  },
+  {
+    "name": "Digital Tools",
+    "value": "0",
+    "color": "yellow",
+    "id": "01JA3BWV9P5HY9JRNHQHXY75XN"
+  },
+  {
+    "name": "Accounting Software",
+    "value": "0",
+    "color": "yellow",
+    "id": "01JA3BWV9P1RQ9NPR2MW2XZHJJ"
+  },
+  {
+    "name": "Team Leading in Projects",
+    "value": "0",
+    "color": "yellow",
+    "id": "01JA3BWV9P24GWA7TNZJ28Y0F9"
+  },
+  {
+    "name": "Mathematics",
+    "value": "0",
+    "color": "yellow",
+    "id": "01JA3BWV9P7E87TCC0JWMS5VCG"
+  },
+  {
+    "name": "Data Analysis",
+    "value": "0",
+    "color": "yellow",
+    "id": "01JA3BWV9PQ91ZA5SDCV80NYYD"
+  }
 ]
