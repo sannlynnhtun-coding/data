@@ -1,12 +1,42 @@
 [
-  { "name": "Full Set Accounting" },
-  { "name": "Social Media Scheduling" },
-  { "name": "Active Listening" },
-  { "name": "Business Couching" },
-  { "name": "Critical Thinking & Problem Solving" },
-  { "name": "Negotiation skills" },
-  { "name": "Leadership skills" },
-  { "name": "Communication skills" },
-  { "name": "Advanced Accountancy" },
-  { "name": "Entrepreneurship and Innovation" }
+  {
+    "name": "Full Set Accounting",
+    "id": "01JA3BRCWHGS08EWBFBK4DZVJ8"
+  },
+  {
+    "name": "Social Media Scheduling",
+    "id": "01JA3BRCWPVSCRAM9TP8A3F6ZG"
+  },
+  {
+    "name": "Active Listening",
+    "id": "01JA3BRCWP9GD5565XM36S8J8J"
+  },
+  {
+    "name": "Business Couching",
+    "id": "01JA3BRCWPHA4TSACHF4Y23Z3T"
+  },
+  {
+    "name": "Critical Thinking & Problem Solving",
+    "id": "01JA3BRCWP2FEKKB9CVKTA7CVK"
+  },
+  {
+    "name": "Negotiation skills",
+    "id": "01JA3BRCWPM468Y42XA8PF5PXH"
+  },
+  {
+    "name": "Leadership skills",
+    "id": "01JA3BRCWPMGYN65EG5ZQQAPTT"
+  },
+  {
+    "name": "Communication skills",
+    "id": "01JA3BRCWPHN8WC7R20Q9NZBMT"
+  },
+  {
+    "name": "Advanced Accountancy",
+    "id": "01JA3BRCWP73X4PZTQ4Q2HTGSY"
+  },
+  {
+    "name": "Entrepreneurship and Innovation",
+    "id": "01JA3BRCWPMTQDH0D1DZEANCFY"
+  }
 ]
